@@ -2,11 +2,11 @@
 <p>Syntethically short for friendly IT guy.</p>
  -->
  
-<!-- ## Overall Statistics
+## Overall Statistics
 <a href="https://github.com/haziqfiqri/haziqfiqri">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=haziqfiqri&show_icons=true&hide=stars,contribs&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1016" alt="GitHub Stat" />
 </a>
- -->
+
  
 ## Tools Technologies
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
@@ -14,7 +14,6 @@
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Framework-Express-informational?style=flat&logo=express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ed)
 
 <!--
