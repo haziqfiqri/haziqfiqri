@@ -3,9 +3,9 @@
  -->
 ## Hi there, nice to meet you
 <ul>
- <li>🚀 I'm currently want to move forward</li>
- <li>🌱 Help me grow while I conquer mountain</li>
- <li>👻 This is always going to be a work in progress</li>
+ <li>🐳 Explore all the knowledge the world have to offer</li>
+ <li>🎁 Life is full of surprises if you keep moving forward</li>
+ <li>👻 You are always a work in progress and that's okay</li>
 </ul>
  
 ## When in doubt, whip it out
