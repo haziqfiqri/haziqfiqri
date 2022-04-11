@@ -16,10 +16,13 @@
 ## Current infinity stones 
 ![](https://img.shields.io/badge/Markup-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
-![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+<br/>
+![](https://img.shields.io/badge/Runtime-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ed)
+![](https://img.shields.io/badge/Framework-NestJs-informational?style=flat&logo=nestjs&logoColor=white&color=E0224F)
 
 <!--
 **haziqfiqri/haziqfiqri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
